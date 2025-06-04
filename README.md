@@ -12,7 +12,6 @@ Video no youtube:https://youtu.be/XC5XnSmtkuk
 
 🔌 Simulação Wokwi:https://wokwi.com/projects/432220782107151361
 
-
 ## 👨‍💻 Integrantes
 
 - **Henrique Maciel Rodrigues** – RM559628  
