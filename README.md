@@ -1,4 +1,4 @@
-# # 🌧️ Bueiro Inteligente – Monitoramento de Enchentes com ESP32, MQTT e Node-RED
+# # 🌧️ EcoDrain – Monitoramento de Enchentes com ESP32, MQTT e Node-RED
 
 🚨 **Objetivo do projeto:**  
 Desenvolver um sistema de monitoramento de nível de água em bueiros, utilizando sensor ultrassônico, ESP32, display OLED e integração com um painel em tempo real via Node-RED. A ideia é alertar autoridades locais sobre risco iminente de alagamentos com baixo custo e alta eficiência.
@@ -8,7 +8,7 @@ Desenvolver um sistema de monitoramento de nível de água em bueiros, utilizand
 
 🧪 Painel Node-RED:https://drive.google.com/drive/folders/1GOkpV-33ZXekA3O7tJLNFHMLFLYWxCFI?usp=sharing
 
-Video no youtube:https://youtu.be/sPsrJTtxZv8
+Video no youtube:https://youtu.be/XC5XnSmtkuk
 
 🔌 Simulação Wokwi:https://wokwi.com/projects/432220782107151361
 
@@ -16,7 +16,8 @@ Video no youtube:https://youtu.be/sPsrJTtxZv8
 ## 👨‍💻 Integrantes
 
 - **Henrique Maciel Rodrigues** – RM559628  
-- **Igor Pereira Nociti** – RM560225  
+- **Igor Pereira Nociti** – RM560225
+- **Pedro Paulo Sabino** – RM559578
 - **Sala:** 1ESPS
 
 ---
